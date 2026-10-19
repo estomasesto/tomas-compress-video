@@ -1,0 +1,9 @@
+{
+  "id": "tomas-video-probe",
+  "name": "Tomás Video Probe",
+  "version": "0.1.0",
+  "minAppVersion": "1.4.0",
+  "description": "Prueba de diagnóstico: muestra qué códecs de video puede codificar, decodificar y reproducir este dispositivo.",
+  "author": "Tomás",
+  "isDesktopOnly": false
+}

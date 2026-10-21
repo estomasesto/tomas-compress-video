@@ -1,0 +1,8 @@
+{
+  "name": "tomas-compress-video",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": { "build": "node build.mjs" },
+  "dependencies": { "mediabunny": "1.61.6" },
+  "devDependencies": { "esbuild": "0.28.2" }
+}

@@ -1,9 +1,9 @@
 {
-  "id": "tomas-video-probe",
-  "name": "Tomás Video Probe",
+  "id": "tomas-compress-video",
+  "name": "Tomás Compress Video",
   "version": "0.1.0",
   "minAppVersion": "1.4.0",
-  "description": "Prueba de diagnóstico: muestra qué códecs de video puede codificar, decodificar y reproducir este dispositivo.",
+  "description": "Comprime videos al insertarlos: MP4 H.265 en iPhone, WebM VP9 en PC (o H.264). Limita resolución y fps.",
   "author": "Tomás",
   "isDesktopOnly": false
 }
